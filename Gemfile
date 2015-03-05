@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.0'
+ruby '2.2.1'
 
 gem 'rails', '4.2.0'
 gem 'sqlite3'
@@ -25,3 +25,4 @@ group :production do
 	gem 'pg'
 end
 
+gem 'puma'
