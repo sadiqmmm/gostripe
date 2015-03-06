@@ -26,3 +26,5 @@ group :production do
 end
 
 gem 'puma'
+gem 'bootstrap-sass', '~> 3.3.3'
+gem "autoprefixer-rails"
